@@ -1,26 +1,13 @@
-# Dark Mode Coding Challenge 🌙 &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-30m-blue) 
+# Dark Mode Coding Challenge 🌙 
 
 &nbsp;
-# Goals / Outcomes ✨
-- Using state and global state
-- DOM manipulation
-
-&nbsp;
-# Pre-requisites ✅
-None
-
-&nbsp;
-# Requirements 📖
+# Task 📖
 - Add dark-mode switching functionality to the *existing* dark-mode button
   - Utilise the *existing* dark-mode scss file by adding a `dark-mode` class to the root `html` element
 - When in Dark mode:
   - The button icon should be `faSun`
   - The button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
-
-&nbsp;
-# Think about 💡
-- How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
-- How we can apply a class to the `html` DOM element
+- Save chosen mode (light|dark) in localStorage/ Cookie. Load this saved mode in app after page reload in browser.
 
 
 &nbsp;
