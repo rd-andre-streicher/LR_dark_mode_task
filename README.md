@@ -13,6 +13,7 @@
 &nbsp;
 # What's Already Been Done 🏁
 - Basic app UI (mobile responsive)
+    - Take a look into package.json for script tasks 
 - Dark mode and light mode styles/themes
 
 &nbsp;
