@@ -9,7 +9,7 @@
   - The dark mode button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
   - The save button colour should be `(#BB86FC)` and button text colour should be black - on hover/ focus it should change opacity to 75%.
   - The submit button colour should be `(#03DAC6)` and button text colour should be black  - on hover/ focus it should change opacity to 75%.
-- Save chosen mode (light|dark) in localStorage/ Cookie. Load this saved mode in app after page reload in browser.
+- Save chosen mode (light|dark) in localStorage/ cookie. Load this saved mode in app after page reload in browser.
 
 
 &nbsp;
