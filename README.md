@@ -5,16 +5,18 @@
 - Add dark-mode switching functionality to the *existing* dark-mode button
   - Utilise the *existing* dark-mode scss file by adding a `dark-mode` class to the root `html` element
 - When in Dark mode:
-  - The button icon should be `faSun`
-  - The button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
+  - The dark mode button icon should be `faSun`
+  - The dark mode button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
+  - The save button colour should be `(#BB86FC)` and button text colour should be black - on hover/ focus it should change opacity to 75%.
+  - The submit button colour should be `(#03DAC6)` and button text colour should be black  - on hover/ focus it should change opacity to 75%.
 - Save chosen mode (light|dark) in localStorage/ Cookie. Load this saved mode in app after page reload in browser.
 
 
 &nbsp;
-# What's Already Been Done 🏁
+# What's already been done 🏁
 - Basic app UI (mobile responsive)
-    - Take a look into package.json for script tasks 
-- Dark mode and light mode styles/themes
+    - Take a look into package.json for script tasks
+- Basic dark mode and light mode styles
 
 &nbsp;
 # Screenshots 🌄
