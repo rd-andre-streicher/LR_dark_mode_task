@@ -3,7 +3,7 @@
 &nbsp;
 # Task 📖
 - Add dark-mode switching functionality to the *existing* dark-mode button
-  - Utilise the *existing* dark-mode scss file by adding a `dark-mode` class to the root `html` element
+  - Use the *existing* dark-mode scss file
 - When in Dark mode:
   - The dark mode button icon should be `faSun`
   - The dark mode button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
