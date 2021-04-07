@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function App({ children }) {
+export default function AppContainer({ children }) {
   return children;
 }

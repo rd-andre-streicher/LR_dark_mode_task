@@ -31,3 +31,9 @@
     }
   }
 }
+
+.is-primary:hover,
+.is-primary:focus {
+  background-color: red;
+  opacity: 75%;
+}
