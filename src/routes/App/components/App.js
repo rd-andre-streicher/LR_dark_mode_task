@@ -10,6 +10,8 @@ function App() {
           <h1 className="title">Dark Mode Challenge</h1>
         </div>
 
+        <img src="http://test.com/test.jpg"/>
+
         {/* --The button that should toggle dark mode-- */}
         <Button />
 
